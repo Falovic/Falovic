@@ -20,4 +20,4 @@
 <img src="https://media2.giphy.com/media/FkD9vjZmOzuIF3DxHu/200.gif">
 
 ## Contact  🤝
-<a href="https://falovic.com/"><img style="width: 5%" src="https://image.flaticon.com/icons/png/512/1160/1160447.png"></a> <a href="https://www.linkedin.com/in/falovic/"><img style="width: 5%" src="https://image.flaticon.com/icons/png/512/1051/1051333.png"></a> <a href="https://github.com/falovic"><img style="width: 5%" src="https://image.flaticon.com/icons/png/512/1051/1051326.png"></a> <a href="mail@falovic.com"><img style="width: 5%" src="https://image.flaticon.com/icons/png/512/60/60543.png"></a>
+<a href="https://falovic.com/"><img style="width: 5%" src="https://image.flaticon.com/icons/png/512/1160/1160447.png"></a> <a href="https://www.linkedin.com/in/falovic/"><img style="width: 5%" src="https://image.flaticon.com/icons/png/512/1051/1051333.png"></a> <a href="https://github.com/falovic"><img style="width: 5%" src="https://image.flaticon.com/icons/png/512/1051/1051326.png"></a> <a href="mailto:mail@falovic.com"><img style="width: 5%" src="https://image.flaticon.com/icons/png/512/60/60543.png"></a>
