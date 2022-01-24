@@ -1,6 +1,6 @@
 ## Hi 👋 , I'm Fatih 
 
-|<img style="width: 600px" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif">|*Thanks for visiting my profile! I am a lawyer who has decided to learn software. I aim to specialize in the field of Frontend Development and continue my career in this way 😏* 
+|<img style="width: 500px" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif">|*Thanks for visiting my profile! I am a lawyer who has decided to learn software. I aim to specialize in the field of Frontend Development and continue my career in this way 😏* 
 |-|-|
 
 <p align="center">
