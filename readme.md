@@ -5,17 +5,12 @@
 
 <p align="center">
   <a target="_blank" href="https://falovic.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a target="_blank" href="https://github.com/falovic"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a target="_blank" href="https://steamcommunity.com/id/falovic"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a target="_blank" href="https://wa.me/905432718644?text=Merhaba%20Fatih,%20nasılsın?%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a target="_blank" href="https://open.spotify.com/user/1jeiwffkgqohcxdxkv2z18suy?si=_uG9oufZTj-KPSv9JGIwRw&utm_source=native-share-menu"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a target="_blank" href="https://www.hackerrank.com/falovic?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  </p>
-<p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/falovic"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target="_blank" href="https://t.me/falovic"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a target="_blank" href="https://twitter.com/fatihawk?t=UgGrH_z-yEXp2OlQ8QOW-g&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a target="_blank" href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a target="_blank" href="https://discordapp.com/users/705540051718897715"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a target="_blank" href="mailto:mail@falovic.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
