@@ -17,7 +17,7 @@
 
 |Coding|Gaming|Camping|Reading|Listening|
 |:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif">| <img style="width: 200px" src="https://media.giphy.com/media/ggL5cO6yGul30AXQnd/giphy.gif">|  <img style="width: 200px" src="https://media.giphy.com/media/YMc3ZQrVYqtTTdTi5e/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/o5GwElo8nW5r1Goyoi/giphy.gif">
+|<img style="width: 200px" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif">| <img style="width: 200px" src="https://media.giphy.com/media/ggL5cO6yGul30AXQnd/giphy.gif">|  <img style="width: 200px" src="https://media.giphy.com/media/YMc3ZQrVYqtTTdTi5e/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/mEhVt0o0Qx6KKvOwcZ/giphy.gif">
 
 ## Languages & Tools 💪
 
