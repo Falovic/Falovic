@@ -11,22 +11,22 @@
   </p>
   <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/falovic"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a target="_blank" href="https://t.me/falovic"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a target="_blank" href="https://t.me/fatihawk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a target="_blank" href="https://discordapp.com/users/705540051718897715"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a target="_blank" href="mailto:fatihsahin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ##  Hobbies ✌️
 
-|Coding|Gaming|Camping|Reading|Listening|
-|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif">| <img style="width: 200px" src="https://media.giphy.com/media/ggL5cO6yGul30AXQnd/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/YMc3ZQrVYqtTTdTi5e/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/mEhVt0o0Qx6KKvOwcZ/giphy.gif">
+|Coding|Gaming|Camping|Watching|Reading|Listening|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 200px" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif">| <img style="width: 200px" src="https://media.giphy.com/media/ggL5cO6yGul30AXQnd/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/2eKfq00HWfb91flICf/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/YMc3ZQrVYqtTTdTi5e/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/mEhVt0o0Qx6KKvOwcZ/giphy.gif">
 
 ## Languages & Tools 💪
 
-|Html|Css|Js|Git|Github|VS Code
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
+|Html|Css|Js|Angular|Git|Github|VS Code
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 200px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
 
 <span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=falovic&show_icons=true&locale=en" alt="falovic" /></span>
 <span><img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=falovic&" alt="falovic" /></span>
