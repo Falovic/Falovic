@@ -1,8 +1,7 @@
 ## 👥 About
-- I'm Fatih.
-- Yes, Frontend.
-- Currently Angular & Typescript.
-- Enough.
+- I'm Fatih
+- Frontend Developer
+- Currently Angular & Typescript
 
 ## ⚙️ Language
 <p align="center">
@@ -20,5 +19,13 @@
       <a target="_blank" href="mailto:fatihsahin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a target="_blank" href="https://t.me/falovic"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
       <a target="_blank" href="https://open.spotify.com/user/1jeiwffkgqohcxdxkv2z18suy?si=_uG9oufZTj-KPSv9JGIwRw&utm_source=native-share-menu"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a target="_blank" href="https://discordapp.com/users/705540051718897715"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
+
+<br><hr>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falovic&layout=compact"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=falovic&&style=flat-square" align="center" />
+</p>
+<hr>
