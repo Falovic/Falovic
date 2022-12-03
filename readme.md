@@ -21,11 +21,10 @@
       <a target="_blank" href="https://open.spotify.com/user/1jeiwffkgqohcxdxkv2z18suy?si=_uG9oufZTj-KPSv9JGIwRw&utm_source=native-share-menu"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-<br><hr>
+<br><br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falovic&layout=compact"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=falovic&&style=flat-square" align="center" />
 </p>
-<hr>
